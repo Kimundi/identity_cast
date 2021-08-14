@@ -1,0 +1,16 @@
+[package]
+name = "identity_cast"
+version = "1.0.0"
+edition = "2018"
+
+license = "MIT/Apache-2.0"
+
+description = "A library for specializing on types dynamically via `Any`"
+readme = "README.md"
+documentation = "https://docs.rs/identity_cast/"
+
+repository = "https://github.com/Kimundi/identity_cast"
+keywords = ["cast", "any", "specialization"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
